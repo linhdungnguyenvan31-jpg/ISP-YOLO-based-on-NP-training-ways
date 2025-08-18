@@ -1,0 +1,16 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode specific
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+best_models/
+best_models1/
+data/
+debug_dataloader_output/
+experiments/
